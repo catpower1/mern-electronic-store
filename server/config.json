@@ -1,0 +1,12 @@
+{
+    "server" : {
+        "host" : "localhost",
+        "port" : 443,
+        "passphrase" : "mishacatpower"
+    },
+    "database" : {
+        "host" : "localhost",
+        "port" : 27017,
+        "databaseName" : "ElectronicStoreDB"
+    }
+}
